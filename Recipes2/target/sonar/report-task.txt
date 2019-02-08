@@ -1,0 +1,6 @@
+projectKey=com.qa.account:recipeapp2
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/com.qa.account:recipeapp2
+ceTaskId=AWjIsaWK8K2Apl8Ahcmy
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWjIsaWK8K2Apl8Ahcmy
